@@ -1,0 +1,324 @@
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.vbprojAssemblyReference.cache
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.cache
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\sisventas.exe.config
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\sisventas.exe
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\sisventas.pdb
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\sisventas.xml
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.exe
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.xml
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.pdb
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.frmventas.resources
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\EnvDTE.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\stdole.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\EnvDTE80.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\VSLangProj.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\VSLangProj80.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\VSLangProj2.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.exe.config
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.frmreportecomprobante.resources
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.vbproj.CopyComplete
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.frmreporteproductos.resources
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.frminicio.resources
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.frmlogin.resources
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.frmusuario.resources
+C:\Users\User\Documents\2018-2\Construccion de BD Proyecto Final\sisventas\sisventas\obj\Debug\sisventas.frmbackupbase.resources
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\sisventas.exe.config
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\sisventas.exe
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\sisventas.pdb
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\sisventas.xml
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\EnvDTE.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\stdole.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\EnvDTE80.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\VSLangProj.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\VSLangProj80.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Newtonsoft.Json.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.MSXML.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.Build.Framework.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\VSLangProj2.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\Proyecto BD\sisventas\sisventas\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.vbprojAssemblyReference.cache
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.exe.config
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.Resources.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.frmbackupbase.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.frmcategoria.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.frmcliente.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.frminicio.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.frmlogin.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.frmproducto.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.frmusuario.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.frmventas.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.frmreportecomprobante.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.frmreporteproductos.resources
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.cache
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.vbproj.CoreCompileInputs.cache
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.vbproj.CopyComplete
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.exe
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.xml
+E:\Proyecto BD\sisventas\sisventas\obj\Debug\sisventas.pdb
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\sisventas.exe.config
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\sisventas.exe
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\sisventas.pdb
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\sisventas.xml
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\EnvDTE.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\stdole.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\EnvDTE80.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\VSLangProj.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\VSLangProj80.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Newtonsoft.Json.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.MSXML.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.Build.Framework.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\VSLangProj2.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.vbprojAssemblyReference.cache
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.exe.config
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.Resources.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.frmbackupbase.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.frmcategoria.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.frmcliente.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.frmdetalle_venta.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.frminicio.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.frmlogin.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.frmproducto.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.frmusuario.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.frmventas.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.frmreportecomprobante.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.frmreporteproductos.resources
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.vbproj.GenerateResource.cache
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.vbproj.CoreCompileInputs.cache
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.vbproj.CopyComplete
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.exe
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.xml
+C:\Santana Garcia Juan Carlos\sisventas\sisventas\obj\Debug\sisventas.pdb
